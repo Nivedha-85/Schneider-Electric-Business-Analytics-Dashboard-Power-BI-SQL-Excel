@@ -202,14 +202,16 @@ schneider-electric-business-analytics/
 
 # Dashboard Preview
 
-*(Add screenshots after uploading them to GitHub.)*
-
 ```markdown
-![Project Manager Dashboard](dashboards/screenshots/project_manager_dashboard.png)
+[Project Manager Dashboard]
 
-![Finance Controller Dashboard](dashboards/screenshots/finance_controller_dashboard.png)
+<img width="594" height="534" alt="Project Manager" src="https://github.com/user-attachments/assets/5ccdd86e-fda8-4770-bcb5-7f45bad8aaf5" />
 
-![Regional Administration Dashboard](dashboards/screenshots/regional_admin_dashboard.png)
+[Finance Controller Dashboard]
+
+[Regional Administration Dashboard]
+
+<img width="588" height="489" alt="Regional Admin" src="https://github.com/user-attachments/assets/bc19cf62-5da3-4f3d-bc11-3d1c65b94f2a" />
 ```
 
 ---

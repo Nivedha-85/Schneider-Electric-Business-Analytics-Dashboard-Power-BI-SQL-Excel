@@ -200,19 +200,29 @@ schneider-electric-business-analytics/
 
 ---
 
-# Dashboard Preview
+## 📊 Dashboard Preview
 
-```markdown
-[Project Manager Dashboard]
+### Project Manager Dashboard
 
-<img width="594" height="534" alt="Project Manager" src="https://github.com/user-attachments/assets/5ccdd86e-fda8-4770-bcb5-7f45bad8aaf5" />
+Provides project managers with a comprehensive view of project health, invoice readiness, GR ageing, rework trends, and action priorities to support proactive project delivery.
 
-[Finance Controller Dashboard]
+<img width="900" alt="Project Manager Dashboard" src="https://github.com/user-attachments/assets/5ccdd86e-fda8-4770-bcb5-7f45bad8aaf5" />
 
-[Regional Administration Dashboard]
+---
 
-<img width="588" height="489" alt="Regional Admin" src="https://github.com/user-attachments/assets/bc19cf62-5da3-4f3d-bc11-3d1c65b94f2a" />
-```
+### Finance Controller Dashboard
+
+Provides finance teams with visibility into forecast accuracy, revenue leakage, billing performance, invoice corrections, and Days Sales Outstanding (DSO) to improve financial governance.
+
+<img width="900" alt="Finance Controller Dashboard" src="PASTE_YOUR_FINANCE_IMAGE_LINK_HERE" />
+
+---
+
+### Regional Administration Dashboard
+
+Provides operational insights into SLA performance, request intake channels, automation coverage, first-time-right processing, and workflow efficiency.
+
+<img width="900" alt="Regional Administration Dashboard" src="https://github.com/user-attachments/assets/bc19cf62-5da3-4f3d-bc11-3d1c65b94f2a" />
 
 ---
 

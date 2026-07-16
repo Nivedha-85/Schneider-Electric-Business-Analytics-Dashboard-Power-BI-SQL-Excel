@@ -252,9 +252,8 @@ schneider-electric-business-analytics/
 Master of Business Analytics  
 Macquarie University
 
-- **LinkedIn:** *(Add your LinkedIn profile URL)*
-- **GitHub:** *(Add your GitHub profile URL)*
-
+- **LinkedIn:** https://www.linkedin.com/in/nivedham8/
+- **GitHub:** https://github.com/Nivedha-85
 ---
 
 ## License
